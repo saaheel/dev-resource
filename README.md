@@ -8,6 +8,8 @@
 
 > [CSS Browser Support](https://www.w3schools.com/cssref/css3_browsersupport.asp) - To verify CSS property supported by browser
 
+
+
 ## Fonts & Icons
 
 > [Google Fonts](https://fonts.google.com/) - Use any fonts as required in your web application
@@ -18,6 +20,8 @@
 
 ## Javascript
 
+> [ScrollReveal](https://scrollrevealjs.org/) - A JS library for scroll animation
+
 ## React JS
 
 ## Static Hosting
@@ -25,4 +29,8 @@
 
 > [Netlify](https://www.netlify.com/) - Host on Netlify for free
 
+> [Vercel](https://www.vercel.com/) - Host on Netlify for free
+
 > [Heroku](https://heroku.com) - Host full stack web application using backed API & Database for free
+
+> [Amazon S3](https://aws.amazon.com) - You can use Amazon Web Services for hosting. It may be chargeable based on usage.
