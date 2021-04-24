@@ -22,6 +22,8 @@
 
 > [ScrollReveal](https://scrollrevealjs.org/) - A JS library for scroll animation
 
+> [Particle JS](https://vincentgarreau.com/particles.js/) - A lightweight JavaScript library for creating particles on back
+
 ## React JS
 
 ## Static Hosting
