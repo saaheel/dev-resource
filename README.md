@@ -8,7 +8,9 @@
 
 > [CSS Browser Support](https://www.w3schools.com/cssref/css3_browsersupport.asp) - To verify CSS property supported by browser
 
+> [Animate CSS](https://animate.style/) - To add animation in your website
 
+> [Creative Tim](https://www.creative-tim.com/) - A site full of resouces with ready made templates(free to paid)
 
 ## Fonts & Icons
 
