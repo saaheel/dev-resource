@@ -14,6 +14,8 @@
 
 > [CSS Grid Cheat Sheet](https://grid.malven.co/) - CSS Grid Cheat Sheet
 
+> [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events) - List of all the events possible in web page
+
 ## CSS Online Play & Learn 
 
 > [Flexbox Froggy](https://flexboxfroggy.com/) - Play & Learn about CSS flexbox on this website
@@ -29,6 +31,8 @@
 > [Boxicons](https://boxicons.com/) - Another resource for icons
 
 ## Javascript
+
+> [javaScript Char Code](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes) - Link to validate the char code of key events
 
 > [ScrollReveal](https://scrollrevealjs.org/) - A JS library for scroll animation
 
