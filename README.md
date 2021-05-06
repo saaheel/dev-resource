@@ -40,6 +40,13 @@
 
 ## React JS
 
+
+## Useful VSCode Extension
+
+> Color Highlight
+
+> Live Server
+
 ## Static Hosting
 > [Github Pages](https://pages.github.com/) - Host your portfolio / static website for free
 
