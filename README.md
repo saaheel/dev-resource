@@ -34,12 +34,18 @@
 
 > [javaScript Char Code](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes) - Link to validate the char code of key events
 
+> [Map Filter Reduce](https://arrayexplorer.netlify.app/) - Online playground for map, filter, reduce
+
 > [ScrollReveal](https://scrollrevealjs.org/) - A JS library for scroll animation
 
 > [Particle JS](https://vincentgarreau.com/particles.js/) - A lightweight JavaScript library for creating particles on back
 
 ## React JS
 
+
+## Authentication System
+
+> [Passport](http://www.passportjs.org/) - Simple, unobtrusive authentication for Node.js
 
 ## Useful VSCode Extension
 
