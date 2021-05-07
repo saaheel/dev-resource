@@ -1,5 +1,8 @@
 # Full Stack Development Resources
 
+* [Javascript](https://fullstack.co.in/#javascript)
+* [Hosting](https://fullstack.co.in/#static-hosting)
+
 ## HTML CSS
 
 > [CSS-Tricks](https://css-tricks.com/) - for code snippet
