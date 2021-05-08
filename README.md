@@ -33,11 +33,17 @@
 
 > [Boxicons](https://boxicons.com/) - Another resource for icons
 
-## Javascript
+## Javascript Resources
 
 > [javaScript Char Code](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes) - Link to validate the char code of key events
 
 > [Map Filter Reduce](https://arrayexplorer.netlify.app/) - Online playground for map, filter, reduce
+
+> [JS Equality Table](https://dorey.github.io/JavaScript-Equality-Table/) - JavaScript equality testing, some funky conversions
+
+> [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) - Equality comparisons and sameness
+
+## Javascript Libraries
 
 > [ScrollReveal](https://scrollrevealjs.org/) - A JS library for scroll animation
 
@@ -55,6 +61,8 @@
 > Color Highlight
 
 > Live Server
+
+> [22 Best VSCode Extn for Web Development](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
 
 ## Static Hosting
 > [Github Pages](https://pages.github.com/) - Host your portfolio / static website for free
