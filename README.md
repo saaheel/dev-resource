@@ -97,5 +97,16 @@
 
 > [HackerEarth]
 
+> [GeeksForGeek]
+
+> [InterviewBit]
+
+> [LeetCode]
+
 > [Crio.Do](https://www.crio.do) - Build Sample Projects
 
+> [RealWorld Github](https://gothinkster.github.io/realworld/) - Build Modern Apps
+
+## YouTube Resources
+
+> [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA) - Dr Naveen Garg for DSA
