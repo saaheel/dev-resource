@@ -88,3 +88,14 @@
 > [Heroku](https://heroku.com) - Host full stack web application using backed API & Database for free
 
 > [Amazon S3](https://aws.amazon.com) - You can use Amazon Web Services for hosting. It may be chargeable based on usage.
+
+## Online Project Resources & Online Code Showcase
+
+> [CodeChef]
+
+> [HackerRank]
+
+> [HackerEarth]
+
+> [Crio.Do](https://www.crio.do) - Build Sample Projects
+
