@@ -101,7 +101,11 @@
 
 > [InterviewBit]
 
-> [LeetCode]
+> [LogicMojo](https://www.logicmojo.com/index.html)
+
+> [LeetCode](https://leetcode.com/) - Online Assesment
+
+> [AlgoExpert](https://www.algoexpert.io/product) - Algo Expert
 
 > [Crio.Do](https://www.crio.do) - Build Sample Projects
 
@@ -110,3 +114,11 @@
 ## YouTube Resources
 
 > [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA) - Dr Naveen Garg for DSA
+
+## Modern Job Website
+
+> [Instahyre]
+
+> [TopHire](https://tophire.co/) - Top Hire
+
+> [AngelList](https://angel.co/jobs) - Angel Jobs
