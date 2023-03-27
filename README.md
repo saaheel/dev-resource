@@ -89,6 +89,18 @@
 
 > [Amazon S3](https://aws.amazon.com) - You can use Amazon Web Services for hosting. It may be chargeable based on usage.
 
+## WordPress Hosting
+
+> [BlueHost]
+
+> [MilesWeb]
+
+> [MadPopo]
+
+> [GoDaddy]
+
+> [Bigrock]
+
 ## Online Project Resources & Online Code Showcase
 
 > [CodeChef]
