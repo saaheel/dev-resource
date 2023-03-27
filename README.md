@@ -122,3 +122,21 @@
 > [TopHire](https://tophire.co/) - Top Hire
 
 > [AngelList](https://angel.co/jobs) - Angel Jobs
+
+## APIs for Next Project Ideas
+
+> [MapBox](https://docs.mapbox.com/api/)
+
+> [NASA API](https://api.nasa.gov)
+
+> [Favourite Quote](https://favqs.com/api/)
+
+> [Edaman API](https://www.edaman.com/)
+
+> [Fake Store API](https://fakestoreapi.com)
+
+> [Pokemon API](https://pokeapi.com)
+
+> [IGDB API](https://www.igdb.com/api)
+
+> [Weather API]
